@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0%;
+}
+
+ul {
+    list-style: square inside;
+    background-color:  rgb(137, 131, 187);
+}
+
+ol {
+    list-style: decimal inside;
+}
+
+ul li {
+    border: 1px solid black;
+    padding: 20px;
+}
+
+ol li {
+    border: 1px solid black;
+    background-color: rgb(137, 131, 187);
+    padding: 20px;
+}
+
+h1, h2 {
+    text-align: center;
+    color: floralwhite;
+    background-color: rgb(7, 23, 56);
+}
+
+body {
+    margin: 15px;
+}
